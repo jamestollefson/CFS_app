@@ -1,1 +1,1 @@
-web: bokeh serve --port $PORT --host commodity_flows_vis.herokuapp.com --address=0.0.0.0 --use-xheaders main.py
+web: bokeh serve --port $PORT --host commodity-flows-app.herokuapp.com --address=0.0.0.0 --use-xheaders main.py
